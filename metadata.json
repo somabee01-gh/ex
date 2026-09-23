@@ -1,0 +1,6 @@
+{
+  "name": "記帳EXCEL表單與發票辨識",
+  "description": "具備伙食、交通工具、服飾、日用品、網購、書籍等專屬分類之 Excel 試算表記帳系統，支援 AI 智慧發票拍照上傳與自動辨識",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
